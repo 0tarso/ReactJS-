@@ -2,9 +2,9 @@
 
 <p>Esse pequeno "Hello World" com algumas funções acopladas, serve para relembrar como funcionam Class Component e Functional Component.</p>
 
-<p>Junto a eles, temos algumas renderizações condicionais e a demonstração de seus ciclos de vida </p>
+<p>Junto a eles, temos algumas renderizações condicionais e a demonstração do ciclo de vida de cada tipo de componente. </p>
 
-<h2> Class Component </h2>
+<h2> Class Components </h2>
 <p> Em Class Component temos alguns conceitos como</p>
 
 <ul>
