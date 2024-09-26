@@ -1,8 +1,15 @@
-# React + Vite
+<h1>Relembrando...</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Esse pequeno "Hello World" com algumas funções acopladas, serve para relembrar como funcionam Class Component e Functional Component.</p>
 
-Currently, two official plugins are available:
+<h2> Class Component </h2>
+<p> Em Class Component temos alguns conceitos como</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ul>
+    <li>
+        States definidos no Constructor da classe
+    </li>
+    <li>
+        Métodos de Ciclo de Vida:
+    </li>
+</ul>

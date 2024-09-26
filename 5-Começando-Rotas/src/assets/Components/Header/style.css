@@ -1,0 +1,31 @@
+.div-container {
+    background-color: #121200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.header-container {
+    background-color: #121200;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 80px;
+
+}
+
+.header-title {
+    color: #fff;
+}
+
+.header-links {
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}

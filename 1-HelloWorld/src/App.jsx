@@ -8,7 +8,7 @@ class ShowNameClassComp extends Component {
     super(props);
 
     this.state = {
-      nome: 'Tailison',
+      nome: props.nome,
       mostrarNome: true,
       hora: '00:00:00'
     };
@@ -46,8 +46,6 @@ class ShowNameClassComp extends Component {
   }
 
   render() {
-
-
     return (
       <div>
         <p>Componente de Classe Abaixo!!</p>
@@ -86,7 +84,7 @@ function App() {
     setCount(count + 1)
   }
 
-  // diminuir o valor do contador
+  // resetar o valor do contador
   const handleReset = () => {
     if (count === 0) {
       setZeroCount(true)
@@ -124,7 +122,7 @@ function App() {
       {/* render condicional */}
       {count === 5 && <p>Chegamos ao cinco</p>}
 
-      <ShowNameClassComp nome='Tarso' />
+      <ShowNameClassComp nome='Seu José' />
     </>
   )
 }
