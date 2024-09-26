@@ -20,6 +20,6 @@
 <p> Já com Function Component temos:</p>
 
 <ul>
-    <li>Uso de Hooks para trazermos estados e mudanças ao componente </li>
-    <li>Uso do "useEffect" para termos um tipo de Ciclo de Vida </li>
+    <li>Uso de Hooks para trazermos States e mudanças ao componente </li>
+    <li>Uso do hook "useEffect" para termos um tipo de Ciclo de Vida </li>
 </ul>
