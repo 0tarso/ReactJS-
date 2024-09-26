@@ -13,6 +13,7 @@
     <li>Métodos de Ciclo de Vida</li>
 </ul>
 
+<img src="./src/assets/helloClassFunction.png">
 <hr>
 
 <h2> Functional Components </h2>
@@ -22,4 +23,7 @@
 <ul>
     <li>Uso de Hooks para trazermos States e mudanças ao componente </li>
     <li>Uso do hook "useEffect" para termos um tipo de Ciclo de Vida </li>
+
 </ul>
+
+<img src="./src/assets/helloFunction.png">
